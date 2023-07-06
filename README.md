@@ -14,7 +14,7 @@
 [react-calendar](https://www.npmjs.com/package/react-calendar) - To display the current month's calendar.
 
 # Project Setup
-Created **3 folders** within the **src** folder of this project. Name the 3 folders **widgets**, **styles** and **modals**. As the names suggest, we will place:
+In this project, I have created **3 folders** within the **src** folder of this project. Name the 3 folders **widgets**, **styles** and **modals**. As the names suggest, we will place:
 
 -> all the JavaScript files we create for the widgets into the **widgets** folder.
 
